@@ -1,1 +1,47 @@
 
+<div align="center">
+
+  <h1>👨‍💻 José Luis Gutiérrez</h1>
+  <p><b>Estudiante de Técnico Laboral por Competencias en Programación de Software</b><br>
+  <i>Universidad Pontificia Bolivariana (UPB)</i></p>
+
+  <p>
+    <a href="#-stack-tecnológico">🛠️ Stack</a> •
+    <a href="#-proyectos-destacados">📌 Proyectos</a> •
+    <a href="#-contacto">📫 Contacto</a>
+  </p>
+
+</div>
+
+---
+
+### 🧰 Stack Tecnológico & Herramientas
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python` (PEP 8, Type Hints, POO) |
+| **Bases de Datos & Persistencia** | `JSON Engine`, `SQL` |
+| **Entorno & Control de Versiones** | `Git`, `GitHub`, `VS Code`, `Terminal / Linux` |
+
+---
+
+### 📌 Proyectos Destacados
+
+* 🛡️ **[DataGuard CLI](https://github.com/TU-USUARIO/dataguard-cli)**  
+  *Sistema de auditoría e integridad de archivos desarrollado en Python con SHA-256, POO y arquitectura por capas.*
+
+* 🎯 **[TaskMaster CLI](https://github.com/TU-USUARIO/taskmaster-cli)**  
+  *Gestor de tareas y rendimiento con métricas en tiempo real y persistencia local.*
+
+---
+
+### 📚 Áreas de Formación (UPB)
+- **Fundamentos de Programación & POO:** Encapsulamiento, algoritmos y diseño modular.
+- **Fundamentos de Bases de Datos:** Modelado, estructuras y persistencia de datos.
+- **Desarrollo & Ética:** Código limpio, mantenibilidad y buenas prácticas.
+
+---
+
+<div align="center">
+  <sub>Diseñado con enfoque en código limpio y desarrollo profesional</sub>
+</div>
