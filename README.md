@@ -123,12 +123,12 @@ Me estoy formando en desarrollo de software combinando **fundamentos sólidos**,
   </div>
 </a>
 
-<a href="https://github.com/joseluisgutierrezestudiante" style="text-decoration:none;display:inline-block;vertical-align:top;text-align:left;">
+<a href="https://github.com/joseluisgutierrezestudiante/dataguard-cli" style="text-decoration:none;display:inline-block;vertical-align:top;text-align:left;">
   <div style="background:#161b22;border:2px solid #30363d;border-radius:14px;padding:18px;width:300px;margin:8px;">
     <div style="height:5px;background:linear-gradient(90deg,#3776AB,#4CAF50);border-radius:3px;"></div>
     <b>🛡️ DataGuard CLI</b>
-    <p style="font-size:13px;color:#8b949e;margin:8px 0;">Sistema de auditoría e integridad de archivos con hashing SHA-256, POO y arquitectura por capas en Python.</p>
-    <span style="font-size:12px;color:#4CAF50;">Python · Hashing · CLI</span>
+    <p style="font-size:13px;color:#8b949e;margin:8px 0;">Sistema de auditoría e integridad de archivos con hashing SHA-256, POO, arquitectura por capas y SQLite. ✨ Nuevo</p>
+    <span style="font-size:12px;color:#4CAF50;">Python · SQLite · SHA-256 · CLI</span>
   </div>
 </a>
 
@@ -154,6 +154,15 @@ Me estoy formando en desarrollo de software combinando **fundamentos sólidos**,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluisgutierrezestudiante&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com/?user=joseluisgutierrezestudiante&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones" />
+
+</div>
+
+**🚀 Repos destacados:**
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joseluisgutierrezestudiante&repo=dataguard-cli&theme=radical&hide_border=true)](https://github.com/joseluisgutierrezestudiante/dataguard-cli)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joseluisgutierrezestudiante&repo=JavaAprendizaje&theme=radical&hide_border=true)](https://github.com/joseluisgutierrezestudiante/JavaAprendizaje)
 
 </div>
 
