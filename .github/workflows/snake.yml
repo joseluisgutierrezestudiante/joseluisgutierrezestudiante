@@ -1,6 +1,8 @@
 name: Generar animacion de contribuciones
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
