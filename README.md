@@ -4,7 +4,7 @@
 
 <br>
 
-# Hola, soy José Luis Gutiérrez 👋
+# José Luis Gutiérrez
 
 **Técnico Laboral por Competencias en Programación de Software**
 *Universidad Pontificia Bolivariana · Bucaramanga, Santander, Colombia*
@@ -13,37 +13,37 @@ Construyo software web completo: APIs en C#, interfaces en JavaScript y utilidad
 de escritorio en Python. Me obsesionan el código legible, la arquitectura por capas
 y las interfaces que se sienten rápidas.
 
-<img src="https://img.shields.io/badge/Disponible_para_prácticas-%20%F0%9F%9A%80-007A5E?style=for-the-badge&logo=github&logoColor=white" alt="Disponible para prácticas" />
+<img src="https://img.shields.io/badge/Disponible_para_prácticas-007A5E?style=for-the-badge&logo=github&logoColor=white" alt="Disponible para prácticas" />
 
-[Ver proyectos](#-proyectos-destacados) · [Contacto](#-contacto)
+[Ver proyectos](#proyectos-destacados) · [Contacto](#contacto)
 
 </div>
 
 <br>
 
-## 🚀 En qué estoy trabajando ahora
+## En qué estoy trabajando ahora
 
-- 🛠️ **Consolidando C# y .NET** — después de `ApiPrimera` quiero ir más profundo en LINQ y async.
-- 🌐 **Terminando el módulo de Diseño de Interfaces** — accesibilidad y diseño responsive como prioridad.
-- 📚 **Ruta de JavaScript** — `Impulso JS` va por la lección 5 de 9; el objetivo es llegar al proyecto final.
-- 🎯 **Meta 2026**: terminar el TEC y empezar a buscar **prácticas o becario junior**.
+- **Consolidando C# y .NET** — después de `ApiPrimera` quiero ir más profundo en LINQ y async.
+- **Terminando el módulo de Diseño de Interfaces** — accesibilidad y diseño responsive como prioridad.
+- **Ruta de JavaScript** — `Impulso JS` va por la lección 5 de 9; el objetivo es llegar al proyecto final.
+- **Meta 2026**: terminar el TEC y empezar a buscar **prácticas o becario junior**.
 
 <br>
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_Gutierrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
 [![Correo](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseluismachado09@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-mi-portafolio-8F6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Sitio-8F6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
 [![GitHub](https://img.shields.io/badge/GitHub-@joseluisgutierrezestudiante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisgutierrezestudiante)
 
 </div>
 
 <br>
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
@@ -57,9 +57,9 @@ y las interfaces que se sienten rápidas.
 
 ---
 
-## 💻 Proyectos destacados
+## Proyectos destacados
 
-### 🌟 Spotlight — Auto Prime (API REST + e-commerce)
+### Spotlight — Auto Prime (API REST + e-commerce)
 
 <a href="https://github.com/joseluisgutierrezestudiante/ApiPrimera">
   <img src="assets/auto-prime.webp" alt="Auto Prime — concesionario multicarmarca" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
@@ -77,7 +77,7 @@ carrito y checkout), administración de productos y **71 pruebas automatizadas e
 
 <br>
 
-### 🍽️ Fogón Artesano (sitio de restaurante)
+### Fogón Artesano (sitio de restaurante)
 
 <a href="https://github.com/joseluisgutierrezestudiante/Restaurante-">
   <img src="assets/fogon-artesano.webp" alt="Fogón Artesano — restaurante de autor" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
@@ -95,7 +95,7 @@ y animaciones GSAP. Diseño responsive y accesible (teclado y `prefers-reduced-m
 
 <br>
 
-### ⚡ Impulso JS (ruta de aprendizaje)
+### Impulso JS (ruta de aprendizaje)
 
 <a href="https://github.com/joseluisgutierrezestudiante/JavaAprendizaje">
   <img src="assets/impulso-js.webp" alt="Impulso JS — ruta de aprendizaje de JavaScript" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
@@ -112,7 +112,7 @@ ejecutable, retos prácticos, mini quizzes y progreso guardado en el navegador. 
 
 <br>
 
-### 🛡️ DataGuard CLI (integridad de archivos)
+### DataGuard CLI (integridad de archivos)
 
 Utilidad de línea de comandos en Python para auditoría de archivos: genera una **línea base
 de hashes SHA-256**, detecta archivos modificados, agregados o eliminados, persiste el
@@ -126,7 +126,7 @@ historial en **SQLite** y exporta reportes en JSON. Arquitectura por capas limpi
 
 <br>
 
-### 📁 Portafolio personal
+### Portafolio personal
 
 <a href="https://github.com/joseluisgutierrezestudiante/mi-portafolio">
   <img src="assets/portafolio.webp" alt="Portafolio personal de José Luis" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
@@ -144,7 +144,7 @@ y descarga de CV. También incluye un API de mascotas en Flask con SQL.
 
 <br>
 
-### 📦 Otros proyectos
+### Otros proyectos
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -156,7 +156,7 @@ y descarga de CV. También incluye un API de mascotas en Flask con SQL.
 
 ---
 
-## 🎓 Formación
+## Formación
 
 **Técnico Laboral por Competencias en Programación de Software**
 Universidad Pontificia Bolivariana — Sede Bucaramanga
@@ -173,7 +173,7 @@ Universidad Pontificia Bolivariana — Sede Bucaramanga
 
 <br>
 
-## 🎯 Enfoque
+## Enfoque
 
 | Área | Qué hago |
 | :--- | :--- |
@@ -185,7 +185,7 @@ Universidad Pontificia Bolivariana — Sede Bucaramanga
 
 ---
 
-## 📊 Actividad y estadísticas
+## Actividad y estadísticas
 
 <div align="center">
 
@@ -209,7 +209,7 @@ Universidad Pontificia Bolivariana — Sede Bucaramanga
 
 ---
 
-## 🏆 Trofeos de GitHub
+## Trofeos de GitHub
 
 <div align="center">
 
