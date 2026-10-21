@@ -34,7 +34,7 @@ y las interfaces que se sienten rápidas.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Luis_Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_Gutierrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
 [![Correo](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseluismachado09@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-mi-portafolio-8F6BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
 [![GitHub](https://img.shields.io/badge/GitHub-@joseluisgutierrezestudiante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisgutierrezestudiante)
