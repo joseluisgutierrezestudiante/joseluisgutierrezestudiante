@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/upb-logo.svg" width="220" alt="UPB" />
+<img src="assets/banner.png" width="100%" alt="José Luis Gutiérrez — Técnico Laboral por Competencias en Programación de Software, UPB Bucaramanga" />
 
 <br>
 
@@ -36,7 +36,7 @@ y las interfaces que se sienten rápidas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_Gutierrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
 [![Correo](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseluismachado09@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-mi-portafolio-8F6BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
+[![Portafolio](https://img.shields.io/badge/Portafolio-mi-portafolio-8F6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
 [![GitHub](https://img.shields.io/badge/GitHub-@joseluisgutierrezestudiante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisgutierrezestudiante)
 
 </div>
@@ -47,9 +47,9 @@ y las interfaces que se sienten rápidas.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,csharp,dotnet,aspnetcore,efcore,razor,mysql&perline=7" alt="Backend y .NET" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,python,nodejs,sqlite&perline=6" alt="Backend y datos" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,sqlite&perline=6" alt="Lenguajes y frameworks" />
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Front-end" />
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&perline=6" alt="Herramientas de trabajo" />
 
