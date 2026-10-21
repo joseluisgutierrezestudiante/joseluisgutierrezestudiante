@@ -1,113 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jos%C3%A9%20Luis%20Guti%C3%A9rrez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desarrollador%20en%20formaci%C3%B3n%20%7C%20T%C3%A9cnico%20en%20Programaci%C3%B3n%20de%20Software&descAlignY=51&descSize=13" width="100%" alt="Animated Header"/>
+<img src="assets/upb-logo.svg" width="220" alt="UPB" />
 
-</div>
+<br>
 
-<div align="center">
+# Hola, soy José Luis Gutiérrez 👋
 
-**Estudiante de Técnico Laboral por Competencias en Programación de Software**  
-*Universidad Pontificia Bolivariana (UPB) · Medellín, Colombia*
+**Técnico Laboral por Competencias en Programación de Software**
+*Universidad Pontificia Bolivariana · Bucaramanga, Santander, Colombia*
 
-Desarrollo interfaces web limpias y aplicaciones de escritorio en Python.  
-Me interesa el código legible, la arquitectura por capas y las bases de datos bien modeladas.
+Construyo software web completo: APIs en C#, interfaces en JavaScript y utilidades
+de escritorio en Python. Me obsesionan el código legible, la arquitectura por capas
+y las interfaces que se sienten rápidas.
+
+<img src="https://img.shields.io/badge/Disponible_para_prácticas-%20%F0%9F%9A%80-007A5E?style=for-the-badge&logo=github&logoColor=white" alt="Disponible para prácticas" />
+
+[Ver proyectos](#-proyectos-destacados) · [Contacto](#-contacto)
 
 </div>
 
 <br>
 
-## 🏆 Trofeos de GitHub
+## 🚀 En qué estoy trabajando ahora
 
-<div align="center">
+- 🛠️ **Consolidando C# y .NET** — después de `ApiPrimera` quiero ir más profundo en LINQ y async.
+- 🌐 **Terminando el módulo de Diseño de Interfaces** — accesibilidad y diseño responsive como prioridad.
+- 📚 **Ruta de JavaScript** — `Impulso JS` va por la lección 5 de 9; el objetivo es llegar al proyecto final.
+- 🎯 **Meta 2026**: terminar el TEC y empezar a buscar **prácticas o becario junior**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=joseluisgutierrezestudiante&theme=transparent&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
+<br>
 
 ## 📫 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
-[![Correo](https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseluismachado09@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar_Sitio-8F6BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Visita_mi_c%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisgutierrezestudiante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-José_Luis_Gutiérrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-luis-guti%C3%A9rrez-machado-391619217/)
+[![Correo](https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseluismachado09@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-mi-portafolio-8F6BFF?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/joseluisgutierrezestudiante/mi-portafolio)
+[![GitHub](https://img.shields.io/badge/GitHub-@joseluisgutierrezestudiante-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseluisgutierrezestudiante)
+
+</div>
+
+<br>
+
+## 🛠️ Stack tecnológico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,csharp,dotnet,aspnetcore,efcore,razor,mysql&perline=7" alt="Backend y .NET" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,sqlite&perline=6" alt="Lenguajes y frameworks" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&perline=6" alt="Herramientas de trabajo" />
 
 </div>
 
 ---
 
-## 🎯 Enfoque
+## 💻 Proyectos destacados
 
-| Área | Qué hago |
+### 🌟 Spotlight — Auto Prime (API REST + e-commerce)
+
+<a href="https://github.com/joseluisgutierrezestudiante/ApiPrimera">
+  <img src="assets/auto-prime.webp" alt="Auto Prime — concesionario multicarmarca" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
+</a>
+
+**API REST de productos en ASP.NET Core (.NET 10)** con Entity Framework Core, MySQL y
+persistencia de imágenes en Cloudinary. Incluye storefront propio (catálogo, categorías,
+carrito y checkout), administración de productos y **71 pruebas automatizadas en verde**.
+
+| | |
 | :--- | :--- |
-| **Front-end** | Maquetación responsive con HTML, CSS y JavaScript |
-| **Back-end** | Aplicaciones de escritorio y CLI en Python con POO |
-| **Datos** | Modelado relacional y persistencia con SQLite |
-| **Diseño** | Interfaces usables: jerarquía visual, consistencia y accesibilidad |
+| **Stack** | C# · ASP.NET Core · EF Core · MySQL · Cloudinary · HTML · CSS · JS |
+| **Repositorio** | [joseluisgutierrezestudiante/ApiPrimera](https://github.com/joseluisgutierrezestudiante/ApiPrimera) |
+| **Estado** | ✅ Completo — taller 3 aprobado |
 
----
+<br>
 
-## 💻 Stack Tecnológico
+### 🍽️ Fogón Artesano (sitio de restaurante)
 
-<div align="center">
+<a href="https://github.com/joseluisgutierrezestudiante/Restaurante-">
+  <img src="assets/fogon-artesano.webp" alt="Fogón Artesano — restaurante de autor" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite,figma&perline=6" alt="Lenguajes y tecnologías" />
+Sitio editorial de un restaurante de autor de Bucaramanga. Menú interactivo con filtros de
+alérgenos, plano de mesas para reservas, galería con lightbox, modo día/noche persistente
+y animaciones GSAP. Diseño responsive y accesible (teclado y `prefers-reduced-motion`).
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,terminal&perline=6" alt="Herramientas de trabajo" />
+| | |
+| :--- | :--- |
+| **Stack** | HTML · CSS · JavaScript · GSAP |
+| **Repositorio** | [joseluisgutierrezestudiante/Restaurante-](https://github.com/joseluisgutierrezestudiante/Restaurante-) |
+| **Estado** | ✅ Completo |
 
-</div>
+<br>
 
----
+### ⚡ Impulso JS (ruta de aprendizaje)
 
-## 🚀 Proyectos Destacados
+<a href="https://github.com/joseluisgutierrezestudiante/JavaAprendizaje">
+  <img src="assets/impulso-js.webp" alt="Impulso JS — ruta de aprendizaje de JavaScript" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
+</a>
 
-### Proyectos con Previsualización
+Ruta de **JavaScript desde cero** en español: 9 lecciones con video, laboratorio de código
+ejecutable, retos prácticos, mini quizzes y progreso guardado en el navegador. Sin instalar nada.
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>API REST de Vehículos</h3>
-      <img src="https://placehold.co/500x300/0A66C2/FFFFFF/png?text=API+REST+Vehiculos+%7C+Preview&font=montserrat" alt="Preview API REST de Vehículos" width="100%" style="border-radius: 8px;"/>
-      <br><br>
-      <a href="https://github.com/joseluisgutierrezestudiante/ApiPrimera">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Comunic-Arte</h3>
-      <img src="https://placehold.co/500x300/8F6BFF/FFFFFF/png?text=Comunic+Arte+%7C+Preview&font=montserrat" alt="Preview Comunic-Arte" width="100%" style="border-radius: 8px;"/>
-      <br><br>
-      <a href="https://github.com/joseluisgutierrezestudiante">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+| :--- | :--- |
+| **Stack** | HTML · CSS · JavaScript · localStorage |
+| **Repositorio** | [joseluisgutierrezestudiante/JavaAprendizaje](https://github.com/joseluisgutierrezestudiante/JavaAprendizaje) |
+| **Estado** | ✅ Completo — lección 5 de 9 |
 
-### Otros Proyectos
+<br>
 
-<div align="center">
+### 🛡️ DataGuard CLI (integridad de archivos)
 
-[![DataGuard CLI](https://github-readme-stats.vercel.app/api/pin/?username=joseluisgutierrezestudiante&repo=dataguard-cli&theme=transparent&hide_border=true)](https://github.com/joseluisgutierrezestudiante/dataguard-cli)
+Utilidad de línea de comandos en Python para auditoría de archivos: genera una **línea base
+de hashes SHA-256**, detecta archivos modificados, agregados o eliminados, persiste el
+historial en **SQLite** y exporta reportes en JSON. Arquitectura por capas limpia.
 
-[![Impulso JS](https://github-readme-stats.vercel.app/api/pin/?username=joseluisgutierrezestudiante&repo=JavaAprendizaje&theme=transparent&hide_border=true)](https://github.com/joseluisgutierrezestudiante/JavaAprendizaje)
+| | |
+| :--- | :--- |
+| **Stack** | Python · SQLite · SHA-256 · argparse |
+| **Repositorio** | [joseluisgutierrezestudiante/dataguard-cli](https://github.com/joseluisgutierrezestudiante/dataguard-cli) |
+| **Estado** | ✅ Estable |
 
-</div>
+<br>
 
-| Proyecto | Descripción | Stack | Estado |
-| :--- | :--- | :--- | :--- |
-| [**DataGuard CLI**](https://github.com/joseluisgutierrezestudiante/dataguard-cli) | Auditoría e integridad de archivos con hashing SHA-256, arquitectura por capas y persistencia en SQLite | Python · SQLite · SHA-256 | ✅ Estable |
-| [**Impulso JS**](https://github.com/joseluisgutierrezestudiante/JavaAprendizaje) | Sitio con 9 lecciones de JavaScript: editor en vivo, quizzes, retos y progreso guardado en el navegador | HTML · CSS · JavaScript | ✅ Estable |
-| [**TaskMaster CLI**](https://github.com/joseluisgutierrezestudiante) | Gestor de tareas con métricas de productividad y persistencia local | Python · SQLite | 🚧 En construcción |
+### 📁 Portafolio personal
+
+<a href="https://github.com/joseluisgutierrezestudiante/mi-portafolio">
+  <img src="assets/portafolio.webp" alt="Portafolio personal de José Luis" width="100%" style="border-radius: 10px; border: 1px solid #d0d7de;" />
+</a>
+
+Portafolio mobile-first con **modo oscuro persistente**, **internacionalización ES/EN**,
+gestor de proyectos (CRUD demo en `localStorage`), blog, formulario de contacto validado
+y descarga de CV. También incluye un API de mascotas en Flask con SQL.
+
+| | |
+| :--- | :--- |
+| **Stack** | HTML · CSS · JavaScript · Flask · SQL |
+| **Repositorio** | [joseluisgutierrezestudiante/mi-portafolio](https://github.com/joseluisgutierrezestudiante/mi-portafolio) |
+| **Estado** | ✅ Activo |
+
+<br>
+
+### 📦 Otros proyectos
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| [**E-Commerce**](https://github.com/joseluisgutierrezestudiante/ecommerce) | Tienda en línea con ASP.NET Core MVC, carrito en sesión y control de stock | C# · EF Core · MySQL |
+| [**JGO Invasores**](https://github.com/joseluisgutierrezestudiante/JGO-Invasores) | Clon de Space Invaders en Python con pygame; sprites y audio generados por código | Python · pygame |
+| [**Piedra, Papel o Tijera**](https://github.com/joseluisgutierrezestudiante/PIEDRA-PAPEL-Y-TIJERA) | Juego de consola con estadísticas persistidas en JSON y pruebas unitarias | Python · JSON |
+| [**POO — Actividad Perro**](https://github.com/joseluisgutierrezestudiante/POO-actividad-perro) | Jerarquía de clases que demuestra los 4 pilares de la POO | Python · POO |
+| [**Mi lista de tareas**](https://github.com/joseluisgutierrezestudiante/mi-tienda) | CLI de gestión de tareas: CRUD, búsqueda, estadísticas y persistencia local | Node.js · JSON |
 
 ---
 
 ## 🎓 Formación
 
-Ruta académica en la UPB — Técnico Laboral por Competencias en Programación de Software.
+**Técnico Laboral por Competencias en Programación de Software**
+Universidad Pontificia Bolivariana — Sede Bucaramanga
 
 | Materia | Estado |
 | :--- | :--- |
@@ -119,9 +171,21 @@ Ruta académica en la UPB — Técnico Laboral por Competencias en Programación
 | Desarrollo Web — HTML, CSS y JavaScript aplicados a sitios reales | 🚀 En curso |
 | Diseño de Interfaces de Usuario — usabilidad, jerarquía visual y experiencia | 🚀 En curso |
 
+<br>
+
+## 🎯 Enfoque
+
+| Área | Qué hago |
+| :--- | :--- |
+| **Back-end** | APIs REST en ASP.NET Core con EF Core, MySQL y pruebas automatizadas |
+| **Front-end** | Interfaces responsive con HTML, CSS, JavaScript y animaciones |
+| **Datos** | Modelado relacional, persistencia en SQLite/MySQL e integridad con SHA-256 |
+| **Arquitectura** | Separación por capas, código legible y herramientas de CLI bien definidas |
+| **Diseño** | Jerarquía visual, consistencia, accesibilidad y modo oscuro |
+
 ---
 
-## 📊 Actividad y Estadísticas
+## 📊 Actividad y estadísticas
 
 <div align="center">
 
@@ -145,13 +209,25 @@ Ruta académica en la UPB — Técnico Laboral por Competencias en Programación
 
 ---
 
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joseluisgutierrezestudiante&theme=transparent&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 <div align="center">
 
 **¿Tienes un proyecto en mente?** [Escríbeme](mailto:joseluismachado09@gmail.com) y lo construimos.
 
 <img src="https://komarev.com/ghpvc/?username=joseluisgutierrezestudiante&color=FF6BCB&style=for-the-badge" alt="Contador de visitas" />
 
-<br><br>
+<br>
+
+> *"El código se lee mucho más veces de lo que se escribe. Que sea legible no es un lujo, es el primer requisito."*
 
 <sub>Perfil en construcción: aprendo creando.</sub>
 
